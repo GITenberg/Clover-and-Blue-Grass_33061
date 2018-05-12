@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32207
     wikipedia: http://en.wikipedia.org/wiki/Eliza_Calvert_Hall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33061#Clover-and-Blue-Grass
 gutenberg_issued: '2010-07-03'
 gutenberg_type: Text
 identifiers:
